@@ -1,0 +1,11 @@
+C:\Users\Benito\source\repos\THA_W5_Benito\THA_W5_Benito\bin\Debug\THA_W5_Benito.exe.config
+C:\Users\Benito\source\repos\THA_W5_Benito\THA_W5_Benito\bin\Debug\THA_W5_Benito.exe
+C:\Users\Benito\source\repos\THA_W5_Benito\THA_W5_Benito\bin\Debug\THA_W5_Benito.pdb
+C:\Users\Benito\source\repos\THA_W5_Benito\THA_W5_Benito\obj\Debug\THA_W5_Benito.csproj.AssemblyReference.cache
+C:\Users\Benito\source\repos\THA_W5_Benito\THA_W5_Benito\obj\Debug\THA_W5_Benito.csproj.SuggestedBindingRedirects.cache
+C:\Users\Benito\source\repos\THA_W5_Benito\THA_W5_Benito\obj\Debug\THA_W5_Benito.Form1.resources
+C:\Users\Benito\source\repos\THA_W5_Benito\THA_W5_Benito\obj\Debug\THA_W5_Benito.Properties.Resources.resources
+C:\Users\Benito\source\repos\THA_W5_Benito\THA_W5_Benito\obj\Debug\THA_W5_Benito.csproj.GenerateResource.cache
+C:\Users\Benito\source\repos\THA_W5_Benito\THA_W5_Benito\obj\Debug\THA_W5_Benito.csproj.CoreCompileInputs.cache
+C:\Users\Benito\source\repos\THA_W5_Benito\THA_W5_Benito\obj\Debug\THA_W5_Benito.exe
+C:\Users\Benito\source\repos\THA_W5_Benito\THA_W5_Benito\obj\Debug\THA_W5_Benito.pdb
